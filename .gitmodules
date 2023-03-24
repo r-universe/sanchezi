@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kfino"]
+	path = kfino
+	url = https://github.com/cran/kfino
+	shallow = true
+	registered = true
